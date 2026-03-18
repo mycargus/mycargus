@@ -19,13 +19,6 @@ Things I've learned while practicing agentic development. Some of these aren't n
 - **Measure what matters** — Track outcomes like defect escape rate, MTTR, and lead time — not just how fast the code ships.
 - **AI accelerates what already exists** — Healthy engineering practices scale faster with AI, but so does dysfunction; quality foundations aren't optional.
 
-### Impact at scale
-
-- **Zero performance incidents** during highest-traffic, highest-risk revenue period across teams following the test strategy I co-created — saving hundreds of thousands in avoided incident costs
-- **99.996% uptime** on the company's first API gateway through full-pyramid automated testing (functional, performance, reliability)
-- **90% reduction in inter-service production incidents** after creating and evangelizing the company's first contract testing framework — 85% team adoption in under a year
-- **Company-wide SLO platform** — Designed uptime signaling, monitoring, and reporting adopted across all products. Collaborated with Datadog to develop a new synthetics metric.
-
 ### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelhargiss/)
