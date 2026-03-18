@@ -7,8 +7,7 @@ Principal Software Engineer in Test, leading AI adoption and building developer 
 - **AI strategy & leadership** — Shaping company-wide AI vision, standards, and implementation. Founded a monthly AI roundtable for cross-team knowledge sharing and maturation.
 - **AI skills & agents** — Built AI agents that improve documentation, code testability, and test coverage with opinionated guardrails. **Reduced project cycle time by 30%.**
 - **AI-powered performance testing** — Created skills and agents that cut onboarding time from 3–6 weeks to half a day — **reclaiming 42+ engineering weeks** of capacity.
-- **AI-augmented homelab** – Using agentic skills to build a simple, secure, privacy-focused home network and lab. Omada, NextDNS, Docker, Traefik, Tailscale, Unraid, Home Assistant.
-- **MCP** – Learning by building an MCP server and typescript library interface to manage my homelab Omada controller configuration with AI agents.
+- **Claude Code plugins** – Building a [plugin ecosystem for Claude Code](https://github.com/mhargiss/mikey-claude-plugins) — skills, agents, and hooks that enforce opinionated workflows, TDD practices, and agentic automation patterns on top of the Claude Code CLI.
 
 ### Impact at scale
 
