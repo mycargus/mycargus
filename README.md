@@ -9,6 +9,16 @@ Principal Software Engineer in Test, leading AI adoption and building developer 
 - **AI-powered performance testing** — Created skills and agents that cut onboarding time from 3–6 weeks to half a day — **reclaiming 42+ engineering weeks** of capacity.
 - **Claude Code plugins** – Building a [plugin ecosystem for Claude Code](https://github.com/mhargiss/mikey-claude-plugins) — skills, agents, and hooks that enforce opinionated workflows, TDD practices, and agentic automation patterns on top of the Claude Code CLI.
 
+### Principles
+
+Things I've learned while practicing agentic development. Some of these aren't new — they're engineering fundamentals that became more valuable once AI entered the picture.
+
+- **Specify what you want, verify what you got** — Define intent precisely upfront and always validate outputs against that intent.
+- **Human readable, agent consumable** — Design artifacts that humans can understand and agents can reliably parse and act on.
+- **Guardrails over guidelines** — Use hooks, linters, and constraints to make the wrong behavior hard, not just discouraged. If it can be scripted, it should be.
+- **Measure what matters** — Track outcomes like defect escape rate, MTTR, and lead time — not just how fast the code ships.
+- **AI accelerates what already exists** — Healthy engineering practices scale faster with AI, but so does dysfunction; quality foundations aren't optional.
+
 ### Impact at scale
 
 - **Zero performance incidents** during highest-traffic, highest-risk revenue period across teams following the test strategy I co-created — saving hundreds of thousands in avoided incident costs
