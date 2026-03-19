@@ -8,6 +8,7 @@ Principal Software Engineer in Test, leading AI adoption and building developer 
 - **AI skills & agents** — Built AI agents that improve documentation, code testability, and test coverage with opinionated guardrails. **Reduced project cycle time by 30%.**
 - **AI-powered performance testing** — Created skills and agents that cut onboarding time from 3–6 weeks to half a day — **reclaiming 42+ engineering weeks** of capacity.
 - **Claude Code plugins** – Building a [plugin ecosystem for Claude Code](https://github.com/mhargiss/mikey-claude-plugins) — skills, agents, and hooks that enforce opinionated workflows, TDD practices, and agentic automation patterns on top of the Claude Code CLI.
+- **Heavy agentic development** — [Quarantine](https://github.com/mycargus/quarantine) is a real-world example of AI-driven development at scale, built almost entirely through agentic workflows.
 
 ### Principles
 
