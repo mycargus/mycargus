@@ -16,7 +16,7 @@ Things I've learned while practicing agentic development. Some of these aren't n
 
 - **Specify what you want, verify what you got** — Define intent precisely upfront and always validate outputs against that intent.
 - **Human readable, agent consumable** — Design artifacts that humans can understand and agents can reliably parse and act on.
-- **Guardrails over guidelines** — Use hooks, linters, and codified constraints to make the wrong behavior hard, not just discouraged. Prompts aren't constraints. If it can be scripted, it should be.
+- **Guardrails over guidelines** — "MUST" and "MUST NOT" prompts aren't constraints. Use hooks, linters, and codified constraints to make the wrong behavior hard, not just discouraged. If it can be scripted, it should be!
 - **Measure what matters** — Track outcomes like defect escape rate, MTTR, and customer satisfaction — not just how fast the code ships.
 - **AI accelerates what already exists** — Healthy engineering practices scale faster with AI, but so does dysfunction; quality foundations aren't optional.
 
